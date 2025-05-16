@@ -1,0 +1,15 @@
+[
+{   
+    "Image":"/assets/ui-design.png",
+    "Title":"UI/UX Design",
+    "Des":"Focused on crafting intuitive, user-centered interfaces that enhance usability and accessibility. Skilled in wireframing, prototyping, and creating responsive designs that align with user needs and business goals."
+},
+{   "Image":"/assets/website-design.png",
+    "Title":"Website Design",
+    "Des":"Specialized in designing clean, responsive websites with a strong focus on user experience, accessibility, and visual hierarchy. I aim to create interfaces that are both functional and visually engaging."
+}, 
+{   "Image":"/assets/app-design.png",
+    "Title":"App Design",
+    "Des":"Designing intuitive and user-friendly mobile app interfaces with a focus on seamless navigation and user engagement. Prioritize clarity, consistency, and responsiveness across platforms."
+}
+]

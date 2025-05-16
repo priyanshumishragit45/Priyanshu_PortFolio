@@ -1,0 +1,20 @@
+[
+    {
+        "Title" : "Spotify",
+        "Image" : "/assets/spotify1.avif",
+        "Desc" : "A Spotify clone created using HTML, CSS, and JavaScript is a web-based music streaming interface. It has features like a responsive UI, audio playback, playlist management using JavaScript.",
+        "link" : "https://github.com/priyanshumishragit45/Spotify-Clone"
+    },
+    {
+        "Title" : "Todo",
+        "Image" : "/assets/todo.png",
+        "Desc" : "A fullstack TODO app using React, Node.js, Express, and SQL lets users manage tasks with a dynamic frontend and a RESTful backend. It demonstrates CRUD operations with persistent data storage",
+        "link":"https://github.com/priyanshumishragit45/Task_Management"
+    },
+    {
+        "Title" : "POST App",
+        "Image" : "/assets/post.png",
+        "Desc" : "Built a secure backend for a post management app with full CRUD functionality using Node.js, Express, and MongoDB. Implemented user authentication and authorization",
+        "link":"https://github.com/priyanshumishragit45/POST_Management_Backend_Application"
+    }
+]

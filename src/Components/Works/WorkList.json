@@ -1,0 +1,33 @@
+
+
+[{
+    "Title" : "C++",
+    "Image" :"/CardsSet/CPP.png"
+},{
+    "Title" : "HTML",
+    "Image" :"/CardsSet/HTML1.png"
+},{
+    "Title" : "CSS",
+    "Image" :"/CardsSet/CSS1.png"
+},{
+    "Title" : "JavaScript",
+    "Image" :"/CardsSet/JavaScript.png"
+},{
+    "Title" : "ReactJS",
+    "Image" :"/CardsSet/React.png"
+},{
+    "Title" : "NodeJS",
+    "Image" :"/CardsSet/Node.png"
+},{
+    "Title" : "ExpressJS",
+    "Image" :"/CardsSet/Express.png"
+},{
+    "Title" : "Core Java",
+    "Image" :"/CardsSet/Java.png"
+},{
+    "Title" : "BootStrap",
+    "Image" :"/CardsSet/BootStrap.png"
+},{
+    "Title" : "Tailwind",
+    "Image" :"/CardsSet/Tailwind.png"
+}]

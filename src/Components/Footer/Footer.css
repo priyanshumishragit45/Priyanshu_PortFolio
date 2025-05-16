@@ -1,0 +1,106 @@
+.footer {
+    width: 100vw;
+    height: 4rem;
+    background: rgb(40, 40, 40);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: 300;
+    font-size: small;
+}
+.footer-p{
+  background-color: #1e1e1e; 
+  width: 100%;
+  text-align: center;
+  padding: auto;
+  padding-top: 10px;
+  font-weight: 400;
+  font-size: 0.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} 
+ .footer-h1{
+  background-color: #1e1e1e; 
+  color: #f5a45d;           
+  padding: auto;
+  padding-top: 10px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 5rem;
+  width: 100%;
+}
+
+@media screen and  (max-width: 550px){
+  .footer-p{
+    flex-direction: column;
+  }
+  .footer-h1{
+    font-size: 2rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .scroll-message {
+  background-color: #1e1e1e; 
+  color: #f5a45d;           
+  padding: 3rem 1rem;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2rem;
+  width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .scroll-message {
+    font-size: 1.5rem;
+    padding: 2rem 1rem;
+  }
+}
+
+*/
+ @media screen and (max-width: 550px) {
+  .scroll-message {
+    font-size: 1.25rem;
+    padding: 1.5rem 1rem;
+  }
+  footer-p{
+    display: flex;
+    flex-direction: column;
+  }
+} 

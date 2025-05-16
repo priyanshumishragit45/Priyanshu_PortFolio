@@ -1,0 +1,52 @@
+.pCardContainer {
+    position: relative;
+    width: 270px;
+    height: 330px;
+    overflow: hidden;
+    margin: 20px;
+  }
+  .pImg{
+    object-fit: cover;
+    height: 100%;
+  }
+  .pImg img {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    display: block;
+  }
+  
+  .pDes {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    padding: 1rem;
+    background-color: rgba(0, 0, 0, 0.674); 
+    a img {
+       filter: invert(1);
+    }
+  }
+  
+  .pCardContainer:hover .pDes {
+    display: flex;
+    animation: pAnimate 0.5s ease-in-out;
+  }
+  
+  @keyframes pAnimate {
+    from {
+      transform: translateY(20px);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      /* opacity: 0.65; */
+    }
+  }
+  
